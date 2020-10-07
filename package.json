@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/genivalgtr/projetoTeste/issues"
   },
-  "homepage": "https://github.com/genivalgtr/projetoTeste#readme"
+  "homepage": "https://github.com/genivalgtr/projetoTeste#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
